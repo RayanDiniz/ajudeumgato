@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fff8f4;
+    color: #333;
+    padding: 30px;
+    text-align: center;
+}
+h1 {
+    color: #d94f4f;
+}
+.highlight {
+    color: #ff6600;
+    font-weight: bold;
+}
+.cta-button {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 15px 30px;
+    background-color: #ff6600;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+    font-size: 18px;
+}
+.cta-button:hover {
+    background-color: #e25400;
+}
+.hashtags {
+    margin-top: 30px;
+    color: #888;
+}
