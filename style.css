@@ -5,6 +5,15 @@ body {
     padding: 30px;
     text-align: center;
 }
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.gato {
+    width: 80%;
+}
 h1 {
     color: #d94f4f;
 }
@@ -24,6 +33,13 @@ h1 {
 }
 .cta-button:hover {
     background-color: #e25400;
+}
+.qrcode {
+    width: 30%;
+    margin: 1em;
+    padding: 1em;
+    border: solid 3px #e25400;
+    border-radius: 10px;
 }
 .hashtags {
     margin-top: 30px;
